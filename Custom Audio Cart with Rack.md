@@ -42,6 +42,9 @@ of the need to have enough space to mount a 19'' audio rack onto the cart, so ca
 the back, and for not being wide enough to fit the rack. 
 
 
+![Ikea Product Listing1](https://user-images.githubusercontent.com/114526139/193136499-36a9ba37-0b14-4fab-be27-ea086a13464c.png)
+
+
 ## Acknowledgements
 
 Curtain fabrication: Sydney Koch
