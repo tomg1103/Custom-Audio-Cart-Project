@@ -43,7 +43,7 @@ the back, and for not being wide enough to fit the rack.
 
 
 ![Ikea Product Listing1](https://user-images.githubusercontent.com/114526139/193136499-36a9ba37-0b14-4fab-be27-ea086a13464c.png)
-
+<img src="Ikea Product Listing" alt="Ikea" width="200"/>
 
 ## Acknowledgements
 
