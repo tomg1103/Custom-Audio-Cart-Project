@@ -70,25 +70,30 @@ The top panel the cart came with was attached to the metal frame with several sh
 The outer panel on the lower shelf was able to be attached using wood screws run through the pre-existing holes in the frame. A washer and split lock washer was used to keep the screw from loosening over time. 
 
 Corner braces were used to install the second panel on the lower shelf 2 were installed on the bottom side, in between the 2 plywood panels where the rack was to be installed to create a cleaner look. Wood screws were used to fix the bracket to the plywood, and bolts were installed through drilled holes in the sheetmetal shelf. An additional bracket was installed on the same panel, securing the plywood panel to the bottom of the second shelf. Locktite was used to secure the bolts and to keep vibrations from loosening them. 
+### Curtain
+
+<img src="https://user-images.githubusercontent.com/114526139/193336953-9eef1e01-c419-4f51-ba4a-a458b5713848.jpg" width="400" height="400">
+Fig. 5
+In order to hide the unsigntly cables on the backside of the rack, a cutrain was designed and hung below the second shelf. A small curtain rod was hung above the plywood panels, and a custom curtain was designed and sewed to fit the cart. Pie weights were sewed into the bottom of the curtain to prevent the curtain from blowing around in a windy enviroment, as the cart is intended to be used outdoors. 
 
 ### Rack Installation:
 
 [Standard Rack rails](https://www.amazon.com/Gator-Rackworks-Heavy-Steel-GRW-RACKRAIL-04U/dp/B0718XFY1Q/ref=sr_1_6?keywords=rack%2Bmount%2Brails&qid=1664490879&qu=eyJxc2MiOiI0LjQ3IiwicXNhIjoiMy45MiIsInFzcCI6IjMuNTkifQ%3D%3D&sr=8-6&th=1) were purchased from Amazon, and installed onto the previously installed plywood panels. 
 
 <img src="https://user-images.githubusercontent.com/114526139/193155434-6aac9033-760b-49c6-a68b-ff063cbd3f99.png" width="400" height="400">
-Fig. 5 Illustration of issue with accesability to rack rail
+Fig. 6 Illustration of issue with accesability to rack rail
 The design of the frame was such that the corner of the frame would keep the mounting screws on one side of the rack from being easily accessible, so a strip of scrap plywood was cut, and painted so the rack rail would be offset from the plywood panel. This scrap was attached with screws and wood glue. 
 
 The rails were recessed into the cart ~1 inch in order to protect equipment from being damaged during transportation, as well as to allow equipment with protruding controls to be installed in the future. 
 
 <img src="https://user-images.githubusercontent.com/114526139/193156588-4037a710-ce51-43c1-a1d0-dacad2541acc.JPG" width="400" height="400">
-Fig. 6 5 Shure ULXP4 Recievers and a Shure UA844 power/antenna distribution unit are installed in the rack
+Fig. 7 5 Shure ULXP4 Recievers and a Shure UA844 power/antenna distribution unit are installed in the rack
 
 ### Cable Management 
 
 A power strip was installed on the inside of back panel on the upper shelf. This gave the cart a relatively easily accesable power switch, and allowed for improved cable management. 
 
-Fig. 7 Power strip
+Fig. 8 Power strip
 
 ## Cable Passthrough
 
@@ -98,25 +103,33 @@ In order for power and audio signal cables to be routed from the rack to the pow
 Due to the quantity and size of the cables requred to use this passthrough, as well as tools available, a slot was determinded to be the best design for the passthrough. 
 
 <img src="https://user-images.githubusercontent.com/114526139/193332526-8252d664-4916-4b20-9e0f-33c272c36e7d.JPG" width="400" height="400">
-Fig. 8 A 2 1/8'' hole saw was used to cut the initial holes in the slot. 
+Fig. 9 A 2 1/8'' hole saw was used to cut the initial holes in the slot. 
 
 A 2 1/8'' hole saw was used to cut the ends of the slot, and a dremel with a rotary cutting disk was used to cut a tangent line between each hole, creating a slot. A center punch was used to create a divot where holes were to be drilled, in order to prevent the drill from walking away from the intended area, and marring the shelf. 
 
 <img src="https://user-images.githubusercontent.com/114526139/193333467-c35a6791-41a7-4a05-a738-3277a1978b2a.JPG" width="400">
-Fig. 9 2 holes are cut, a diagram is drawn on the shelffor the final outline of the slot
+Fig. 10 2 holes are cut, a diagram is drawn on the shelffor the final outline of the slot
 
-### Waste Management 
+#### Waste Management 
 
 As drilling through metal creates metal shavings, strips of tape were adheared to the sides of the shelf, overlapping such that metal shavings and dust on the shelf would stick to the tape, rather than falling off of the edge of the cart. A plastic bag was taped below where the slot was being cut to catch shavings that fell through the hole. 
 
-Cable protection
+### Cable protection
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/114526139/193334229-cadd3edf-0e2d-4cf4-bea1-75b83602b89f.png">
-Fig. 10 3d model of grommet in AutoDesk Fusion 360
+Fig. 11 3d model of grommet in AutoDesk Fusion 360
 
 A grommet was designed to protect the cables from the sharp metal edges of the hole. The grommet was designed to be printed on a FDM 3d printer, allowing for multiple revisions to be prototyped quickly at a low price. 
 
-The grommet was printed in PETG on a stock Creality Ender 3 Pro.  installed by placing it into the slot, and using a lighter to soften the bottom edge of the grommt enough that a screwdriver could be used to push the soft plastic into the metal shelf. Once the plastic cooled, the grommet was constrained by the metal shelf, and would not shift out of place. 
+The grommet was printed in PETG on a stock Creality Ender 3 Pro. It was installed by placing it into the slot, and using a lighter to soften the bottom edge of the grommt enough that a screwdriver could be used to push the soft plastic into the metal shelf. Once the plastic cooled, the grommet was constrained by the metal shelf, and would not shift out of place. 
+
+### Final Wiring and setup
+
+The equipment initially installed on the rack is as follows:
+5 Shure ULXP4 recievers
+1 Shure UA844 Active Antenna/Power distribution unit
+1 16 channel Mackie Soundboard 
+
 
 ## Acknowledgements
 
